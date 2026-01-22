@@ -1,5 +1,5 @@
 # FlaskRCE PoC --- Technical Write‑Up
-
+User‑assisted remote code execution via deceptive UI and clipboard injection.
 **Repository:** https://github.com/SleepTheGod/FlaskRCE\
 **File:** `poc.py`
 
